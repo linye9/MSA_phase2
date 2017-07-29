@@ -12,6 +12,7 @@ namespace Github_ConsoleApp1
       {
          Console.WriteLine("hello");
          Console.WriteLine("changed 1st time");
+         Console.Read();
       }
    }
 }
